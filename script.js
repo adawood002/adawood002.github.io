@@ -20,6 +20,6 @@ form.addEventListener('submit', (e) => {
     return;
   }
   const randomCompliment = compliments[Math.floor(Math.random() * compliments.length)];
-  compliment.textContent = "My Lovely"`${name}, ${randomCompliment}`;
+  compliment.textContent = `${name}, ${randomCompliment}`;
   form.reset();
 });
