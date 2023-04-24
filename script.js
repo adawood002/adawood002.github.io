@@ -3,14 +3,14 @@ const input = document.querySelector('input');
 const compliment = document.getElementById('compliment');
 
 const compliments = [
-  "You are absolutely beautiful.",
-  "Your smile is contagious.",
-  "You have a great sense of humor.",
-  "You are a fantastic listener.",
-  "You inspire me to be a better person.",
-  "You are so talented and creative.",
-  "You have a heart of gold.",
-  "You are truly amazing."
+  "Keep pushing yourself - success is just around the corner.",
+  "Every setback is an opportunity to learn and grow stronger.",
+  "Success is not about being the best, it's about being better than you were yesterday.",
+  "Success is not final, failure is not fatal - it's the courage to continue that counts.",
+  "Be grateful for what you have while working for what you want.",
+  "Focus on progress, not perfection.",
+  "Your determination and perseverance will overcome any obstacle.",
+  "Take ownership of your life and create the future you desire."
 ];
 
 form.addEventListener('submit', (e) => {
